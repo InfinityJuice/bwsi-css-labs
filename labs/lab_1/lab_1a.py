@@ -12,5 +12,7 @@ def main():
 
     print(f"{name}, Welcome to the CSS course!")
 
+    print("Hello, my name is Ryan Wang. I am a Junior in Virginia. A fun fact about me is that I enjoy robotics (so much so that I cofounded a FIRST Robotics Competition team this year). I look forward to learning more in this course, as well as all others that I take.")
+
 if __name__ == "__main__":
     main()
